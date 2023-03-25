@@ -22,3 +22,6 @@ $python chat.py
 ```
 
 Now for deployment follow my tutorial to implement `app.py` and `app.js`.
+
+Youtube Video Reference;
+https://www.youtube.com/watch?v=a37BL0stIuM
